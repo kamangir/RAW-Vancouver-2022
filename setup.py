@@ -1,6 +1,6 @@
 from setuptools import setup
 
-from awesome_bash_cli_template import *
+from rv22 import *
 
 setup(
     name=name,

@@ -1,6 +1,10 @@
 #! /usr/bin/env bash
 
 function rv22() {
+    RAW_Vancouver_PORTAL_2022 $@
+}
+
+function RAW_Vancouver_PORTAL_2022() {
     local task=$(abcli_unpack_keyword $1 help)
 
     if [ $task == "help" ] ; then
