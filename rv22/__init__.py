@@ -1,5 +1,5 @@
 name = "rv22"
 
-version = "1.6.1"
+version = "1.7.1"
 
 description = "RAW Vancouver PORTAL 2022"
