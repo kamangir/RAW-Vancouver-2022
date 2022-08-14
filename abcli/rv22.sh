@@ -5,7 +5,7 @@ function rv22() {
 
     if [ $task == "help" ] ; then
         abcli_help_line "rv22 task_1" \
-            "run abct task_1."
+            "run rv22 task_1."
 
         if [ "$(abcli_keyword_is $2 verbose)" == true ] ; then
             python3 -m rv22 --help
