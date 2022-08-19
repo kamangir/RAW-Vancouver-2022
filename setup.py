@@ -1,11 +1,11 @@
 from setuptools import setup
 
-from rv22 import *
+from rv22 import NAME, VERSION
 
 setup(
-    name=name,
+    name=NAME,
     author="kamangir",
-    version=version,
-    description=description,
-    packages=[name],
+    version=VERSION,
+    description="RAW Vancouver PORTAL 2022",
+    packages=[NAME],
 )
