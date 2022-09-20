@@ -6,7 +6,14 @@ This repo contains the [3D Printed Brackets](#3D-Printed-Brackets), the [Electro
 
 ## 3D Printed Brackets
 
+1. [gen3-sx](../bracket/gen3-sx.stl)
+1. [gen3-shx](../bracket/gen3-shx.stl) for [gen3-six](../bracket/gen3-six.stl), depending on camera.
+
+more: [`blue bracket`](https://github.com/kamangir/blue-bracket)
+
 ## Electronics
+
+1. TBA
 
 ## Software
 
