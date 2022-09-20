@@ -4,6 +4,6 @@
 
 [![image](./assets/images/marquee.jpg)](https://rawartists.com/vancouver)
 
---
+---
 
 This is an [`abcli`](https://github.com/kamangir/awesome-bash-cli) plugin.
