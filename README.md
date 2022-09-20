@@ -1,6 +1,6 @@
 # RAW Vancouver PORTAL 2022
 
-This repo contains the software for [RAW Vancouver: Portal](https://rawartists.com/vancouver) eta `2022-11-12`. See [blue brackets/portal](https://github.com/kamangir/blue-bracket/blob/main/designs/portal.md) for hardware details.
+Software components for an installation at [RAW Vancouver: Portal](https://rawartists.com/vancouver). See [blue brackets/portal](https://github.com/kamangir/blue-bracket/blob/main/designs/portal.md) for hardware details.
 
 ![image](./assets/images/hardware.jpg)
 
