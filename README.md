@@ -10,4 +10,4 @@ Install [`abcli`](https://github.com/kamangir/awesome-bash-cli) on a Mac or Linu
 abcli git clone rv22 install
 ```
 
-[![image](./assets/images/marquee.jpg)](https://rawartists.com/vancouver)
+[![image](./assets/images/marquee.jpg)](https://rawartists.com/vancouver/portal)
