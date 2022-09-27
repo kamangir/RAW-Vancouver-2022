@@ -8,7 +8,7 @@ To install the software, first install [`abcli`](https://github.com/kamangir/awe
 abcli git clone rv22 install
 ```
 
-See [blue brackets/portal](https://github.com/kamangir/blue-bracket/blob/main/designs/portal.md) for hardware details.
+See [blue3](https://github.com/kamangir/blue-bracket/blob/main/designs/blue3.md), [cube](https://github.com/kamangir/blue-bracket/blob/main/designs/cube.md), and [portal](https://github.com/kamangir/blue-bracket/blob/main/designs/portal.md) for hardware details.
 
 
 [![image](./assets/images/marquee.jpg)](https://rawartists.com/vancouver/portal)
